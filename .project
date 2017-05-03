@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>Locator</name>
-			<type>1</type>
-			<location>C:/Users/lucas/OneDrive/Documents/Other/Willeys Locator v4/Locator.py</location>
-		</link>
-	</linkedResources>
 </projectDescription>
